@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adi Shnaidman
 =====================================================================================================================================
 
-Software Engineer & Data Enthusiast
+Data Scientist | Algorithm Engineer | ML Enthusiast
 -----------------------------------
 
 Bachelor of Computer Science, Statistics and Data Science student with a strong foundation in Algorithms and Machine Learning. Experienced and dedicated data analyst and programmer proficient in Python, effectively utilizing diverse data sources and applying advanced research methodologies. Passionate about Machine Learning, Algorithms, and Software Engineering, actively seeking opportunities to expand knowledge and contribute to innovative projects in these domains.
