@@ -40,20 +40,33 @@ Previously, I worked as a Data Scientist at the ComDePri Lab at the Hebrew Unive
   TMLR, 2025 — acknowledged contributor  
   [arXiv](https://arxiv.org/abs/2601.08490)
 
-### Skills
+### Research & Technical Stack
 
+**Research areas**  
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/LLM%20Safety-111827?style=for-the-badge" alt="LLM Safety" />
+  <img src="https://img.shields.io/badge/Adversarial%20ML-111827?style=for-the-badge" alt="Adversarial ML" />
+  <img src="https://img.shields.io/badge/Model%20Evaluation-111827?style=for-the-badge" alt="Model Evaluation" />
+  <img src="https://img.shields.io/badge/Mechanistic%20Interpretability-111827?style=for-the-badge" alt="Mechanistic Interpretability" />
+  <img src="https://img.shields.io/badge/Inference--Time%20Control-111827?style=for-the-badge" alt="Inference-Time Control" />
+</p>
+
+**ML / data tools**  
+<p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+</p>
+
+**Programming & infrastructure**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
-
 
 ### Socials
 
