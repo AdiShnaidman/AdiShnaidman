@@ -1,4 +1,4 @@
-Hi 👋 My name is Adi Shnaidman
+Adi Shnaidman
 ==============================
 
 Machine Learning Researcher | AI Safety, LLM Robustness & Trustworthy AI
