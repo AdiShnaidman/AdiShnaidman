@@ -61,6 +61,9 @@ Previously, I worked as a Data Scientist at the ComDePri Lab at the Hebrew Unive
   <a href="https://www.github.com/AdiShnaidman" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://adishnaidman.github.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
   <a href="https://www.linkedin.com/in/adi-shnaidman" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
